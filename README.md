@@ -19,6 +19,6 @@ Here are some ideas to get you started:
     <img loading="lazy" height = "180em" src="https://github-readme-stats.vercel.app/api?username=pmor4is&show_icons=true&theme=tokyonight">
     <!--GitHub Langs-->
     <img loading="lazy" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmor4is&hide_progress=true&theme=tokyonight">
-</div>
 
-![Snake animation](https://github.com/pmor4is/pmor4is/blob/output/github-contribution-grid-snake.svg)
+    <img src="./assets/img/github-contribution-grid-snake.svg">
+</div>

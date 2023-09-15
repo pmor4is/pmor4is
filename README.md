@@ -15,18 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/pedro-m-morais/">
+    <!-- Link com o LinkedIn -->
+    <a href="https://www.linkedin.com/in/pedro-m-morais/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   <a href="https://www.instagram.com/pmorais/">
+   <!-- Link com o instagram -->
+    <a href="https://www.instagram.com/pmorais/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge"/>
-     
-  <!-- </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
 </div>
 
 

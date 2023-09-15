@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/Uaxj062PavgqZRhVkS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS">via GIPHY</a></p>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhOW96YXRnZjcwbDQyaHJlbXI1djd5NGVhaWFjbHJlMnNvZnhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif">
+</div>
 
 <div>
     <!--GitHub Stats-->

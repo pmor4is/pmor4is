@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhOW96YXRnZjcwbDQyaHJlbXI1djd5NGVhaWFjbHJlMnNvZnhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif">
+    <img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlhOW96YXRnZjcwbDQyaHJlbXI1djd5NGVhaWFjbHJlMnNvZnhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif">
 </div>
 
 <div>

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i'm Pedro Morais
 
 <!--
 **pmor4is/pmor4is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)

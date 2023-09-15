@@ -20,5 +20,4 @@ Here are some ideas to get you started:
     <!--GitHub Langs-->
     <img loading="lazy" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmor4is&hide_progress=true&theme=tokyonight">
 
-    <img src="./assets/img/github-contribution-grid-snake.svg">
 </div>

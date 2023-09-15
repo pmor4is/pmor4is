@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=pmor4is&show_icons=true&theme=radical">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmor4is&hide_progress=true">
+    <!--GitHub Stats-->
+    <img loading="lazy" height = "180em" src="https://github-readme-stats.vercel.app/api?username=pmor4is&show_icons=true&theme=radical">
+    <!--GitHub Langs-->
+    <img loading="lazy" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmor4is&hide_progress=true">
 
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmor4is&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmor4is&hide_progress=true)

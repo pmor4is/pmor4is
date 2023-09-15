@@ -19,5 +19,11 @@ Here are some ideas to get you started:
     <img loading="lazy" height = "180em" src="https://github-readme-stats.vercel.app/api?username=pmor4is&show_icons=true&theme=radical">
     <!--GitHub Langs-->
     <img loading="lazy" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmor4is&hide_progress=true">
-
 </div>
+
+tokyonight: {
+    title_color: "70a5fd",
+    icon_color: "bf91f3",
+    text_color: "38bdae",
+    bg_color: "1a1b27",
+  },
